@@ -65,3 +65,4 @@
 * [jackzhou](https://jackzhou.co/) 前端
 * [laker](http://laker.me/) 前端
 * [捕蛇者说](https://pythonhunter.org/)
+* [颜海镜](https://yanhaijing.com/) 前端
