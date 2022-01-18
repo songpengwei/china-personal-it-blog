@@ -51,7 +51,7 @@
 * [卡瓦邦噶](https://www.kawabangga.com/) Linux知识,前端
 * [小明明](https://www.dongwm.com/) Python
 * [frostming](https://frostming.com/) Python
-* [青藤木鸟](https://www.qtmuniao.com/) Java,Python
+* [木鸟杂记](https://www.qtmuniao.com/) 分布式系统，存储，数据库，Java,Python
 * [Manjusaka](https://manjusaka.itscoder.com/) Python
 * [vimiix](https://www.vimiix.com/) golang
 * [wklken](http://wklken.me/posts.html) Python,Golang
